@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrainShi(f)t</string>
+    <string name="next">next</string>
+    <string name="intro">Learn new information card by card</string>
+    <string name="previous">previous</string>
+    <string name="welcome_to_brainshift">Welcome to BrainShi(f)t! Your fav app for memorizing stuff. Learn new stuff everywhere! Choose a set of cards for memorizing</string>
+</resources>
